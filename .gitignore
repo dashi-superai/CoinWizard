@@ -1,5 +1,2 @@
-.history
-node_modules
-key
-*.csv
-data/
+# Exclude setup script
+setup-git.bat
