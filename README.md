@@ -6,7 +6,7 @@
 
 Predict the prices of certain cryptocurrencies by training a PyTorch Model on the history data from the NASDAQ API.
 
-> **Important**: This code trains an RNN-Model, so it will take some time to train the model. The model will be saved in the `Backend` directory and will be loaded on the next start of the application.
+This code trains an RNN-Model, so it will take some time to train the model. The model will be saved in the `Backend` directory and will be loaded on the next start of the application.
 
 ## Installation
 
